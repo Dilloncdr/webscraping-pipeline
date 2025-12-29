@@ -1,0 +1,17 @@
+# Core scraping
+requests
+beautifulsoup4
+selenium
+
+# Data handling
+pandas
+openpyxl
+
+# Image processing
+opencv-python
+Pillow
+numpy
+
+# Utilities
+tqdm
+unidecode
